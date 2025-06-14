@@ -31,3 +31,10 @@ You can return the answer in **any order**.
 - Only **one valid answer** exists for each input.
 
 ---
+
+## Solution Performance
+
+| Metric   | Result   | Percentile    |
+| -------- | -------- | ------------- |
+| ⏱ Time   | 5 ms     | 50.92% faster |
+| 💾 Space | 47.43 MB | 80.19% better |
